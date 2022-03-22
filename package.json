@@ -1,0 +1,23 @@
+{
+  "name": "cod-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "threejs-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvlustosa/cod-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvlustosa/cod-design/issues"
+  },
+  "homepage": "https://github.com/jvlustosa/cod-design#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
